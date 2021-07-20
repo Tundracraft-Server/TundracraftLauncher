@@ -1527,6 +1527,14 @@ input:checked + .toggleSwitchSlider:before {
     padding-bottom: 25px;
 }
 
+div#settingsOptModsContainer {
+    padding-bottom: 0px;
+}
+
+div#settingsDropinModsContent {
+    padding-bottom: 10px;
+}
+
 /* Main content containers for mod elements. */
 #settingsReqModsContent,
 #settingsOptModsContent,
